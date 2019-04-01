@@ -1,0 +1,9 @@
+com\vish\spring\config\AppConfig.class
+com\vish\spring\controller\BookController.class
+com\vish\spring\service\BookService.class
+com\vish\spring\service\BookServiceImpl.class
+com\vish\spring\model\Book.class
+com\vish\spring\dao\BookDAO.class
+com\vish\spring\dao\BookDAOImpl.class
+com\vish\spring\config\WebAppInitializer.class
+com\vish\spring\config\WebConfig.class
